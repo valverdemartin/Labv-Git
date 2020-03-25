@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Arrays;
 
@@ -23,14 +24,7 @@ public class GenericArray <T extends Comparable<T>>{
 
     //Methods
     public boolean exist(T element){
-        boolean flag = false;
-        if(!this.myArray.isEmpty()){
-            for (T value : this.myArray) {
-                if(value.equals(element))
-                    flag = true;
-            }
-        }
-        return flag;
+        return this.myArray.contains(element);
     }
 
     public T getMax(){

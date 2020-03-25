@@ -15,18 +15,18 @@ public class Main {
         System.out.println("Precio: " + simbolo + precio);
         System.out.println("Envio Gratuito: " + envioGratuito);*/
 
-       /*GenericArray <Integer> myArray = new GenericArray<>();
+       GenericArray <Integer> myArray = new GenericArray<>();
        myArray.add(1);
        myArray.add(2);
        myArray.add(3);
        myArray.add(4);
-
-       System.out.println(myArray);
+       System.out.println(myArray.exist(4));
+       /*System.out.println(myArray);
        myArray.removeLastOne();
        System.out.println(myArray);*/
 
 
-       Pila <Integer> myPila = new Pila<>();
+       /*Pila <Integer> myPila = new Pila<>();
        myPila.push(1);
        myPila.push(2);
        myPila.push(3);
@@ -36,7 +36,7 @@ public class Main {
 
         System.out.println(myPila.pop());
 
-        System.out.println(myPila);
+        System.out.println(myPila);*/
 
     }
 }

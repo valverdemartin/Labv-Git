@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feeb3d72-e322-473b-90fe-a29ac32e6f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleLinkQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Guia Genericos (Feli)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -76,7 +69,9 @@
       <workItem from="1584542663414" duration="3660000" />
       <workItem from="1584897383741" duration="12792000" />
       <workItem from="1585151131383" duration="1370000" />
-      <workItem from="1585160140017" duration="4829000" />
+      <workItem from="1585160140017" duration="6155000" />
+      <workItem from="1585611654455" duration="732000" />
+      <workItem from="1585616149804" duration="16000" />
     </task>
     <servers />
   </component>
@@ -95,10 +90,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585165298905" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585162001209">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585616160623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585162001209" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585616160623" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585161333602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -135,11 +130,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584907303653" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585160139923">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585616149187">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585160139923" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585616149187" />
     <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584452149328" />
+    <state x="209" y="33" key="new project wizard" timestamp="1585177470555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585177470555" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
